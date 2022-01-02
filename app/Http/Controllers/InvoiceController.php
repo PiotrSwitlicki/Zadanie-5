@@ -26,7 +26,7 @@ class InvoiceController extends Controller
      */
     public function create()
     {
-        return view('invoices.create')->with('popup', 'open');;
+        return view('invoices.create');
     }
 
     /**
