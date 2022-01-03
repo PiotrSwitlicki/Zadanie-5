@@ -1,4 +1,4 @@
-<img src="faktury.jpg" alt="faktury" width="800" height="800">
+<img src="faktury.jpg" alt="faktury">
 
 Zadaniem jest utworzenie prostej aplikacji umożliwiającej dodawanie, usuwanie i przeglądanie listy
 uproszczonych faktur.
